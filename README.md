@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeilaLatif
-- 👀 I’m interested in coding and Islamic Sciences, specially Quran memorization
+- 👀 I’m interested in coding and Islamic Sciences
 - 🌱 I’m currently learning Python with the Harvard free course
 - 💞️ I’m looking to collaborate on what does that mean
 - 📫 How to reach me: discord as layl_llaa
